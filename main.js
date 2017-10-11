@@ -1,4 +1,4 @@
-const Scrapper = require('./scrapper');
+const Scrapper = require('./scraper');
 
 const element = {
   id: process.env.ID,
